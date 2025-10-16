@@ -1,0 +1,55 @@
+name: project-selection-workflow
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * 0"
+jobs:
+  run-data-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo content
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.ACCESS_TOKEN }}
+      - name: Set up python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Check cached model
+        uses: actions/cache@v4
+        with:
+          path: ./best_model
+          key: ${{ runner.os }}-${{ hashFiles('**/metrics.tsv') }}
+      - name: Fetch model
+        if: steps.cache-primes.outputs.cache-hit != 'true'
+        run: |
+          model_path="./best_model"
+          base_url="https://huggingface.co/seven-wind-c/longformer-proteomics-selection/resolve/main"
+          curl -L -o $model_path/model.safetensors $base_url/model.safetensors
+          curl -L -o $model_path/config.json $base_url/config.json
+          curl -L -o $model_path/tokenizer.json $base_url/tokenizer.json
+          curl -L -o $model_path/metrics.tsv $base_url/metrics.tsv
+          curl -L -o $model_path/vocab.json $base_url/vocab.json
+          curl -L -o $model_path/merges.txt $base_url/merges.txt
+          curl -L -o $model_path/special_tokens_map.json $base_url/special_tokens_map.json
+          curl -L -o $model_path/tokenizer_config.json $base_url/tokenizer_config.json
+      - name: Run data pipeline
+        run: python prediction.py
+      - name: Check for changes
+        id: git-check
+        run: |
+          git config user.name 'github-actions'
+          git config user.email 'github-actions@github.com'
+          git add .
+          git diff --staged --quiet || echo "changes=true" >> $GITHUB_ENV
+      - name: Commit and push if changes        
+        if: env.changes == 'true'
+        run: |
+          git commit -m "updated prediction"
+          git push
+
+
