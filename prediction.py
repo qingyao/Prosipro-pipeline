@@ -1,16 +1,16 @@
 import torch, os, gc
 from transformers import AutoTokenizer
 from transformers import AutoModelForSequenceClassification
-from sklearn.model_selection import train_test_split
 import pandas as pd
 import argparse
-import numpy as np
+from datetime import date
 
+today = date.today().strftime("%Y%m%d")
 parser = argparse.ArgumentParser(
                     prog='Project selection in Proteomics',
                     description='It runs an fined-tuned LLM classifier against the title, abstract and keywords and outputs binary decision to include the project or not')
 parser.add_argument('-m', '--modelpath', default = './best_model')
-parser.add_argument('-t', '--textpath', default='./input/project_descriptions.tsv', help='tsv with 4 columns: publication title, dataset title, keywords and abstract')
+parser.add_argument('-t', '--textpath', default=f'./input/{today}.tsv', help='tsv with 6 columns: PX-ID, PMID, publication title, dataset title, keywords and abstract')
 parser.add_argument('-n', '--modeltype', choices=['WordPiece','BPE'],default='BPE')
 
 args = parser.parse_args()
@@ -30,7 +30,8 @@ tokenizer = AutoTokenizer.from_pretrained(model_dir)
 model.eval()
 
 text_list = []
-with open('output/predictions.log', 'w') as logf:
+id_list = []
+with open(f'output/{today}.log', 'w') as logf:
     with open(text_path) as f:
         for i, l in enumerate(f):
             if model_type == 'WordPiece':
@@ -41,18 +42,21 @@ with open('output/predictions.log', 'w') as logf:
                 start = '<s>'
             
             ll = l.strip().split('\t')
+            pxdid, pmid = ll[:2]
             try:
-                text = start + ' Title: ' + ll[0] + \
-                        sep + ' Dataset Title: ' + ll[1] + \
-                        sep + ' Keywords: ' + ll[2] + \
-                        sep + ' Abstract: ' + ll[3] + \
+                text = start + ' Title: ' + ll[2] + \
+                        sep + ' Dataset Title: ' + ll[3] + \
+                        sep + ' Keywords: ' + ll[4] + \
+                        sep + ' Abstract: ' + ll[5] + \
                         sep        
                 # text = start + sep.join(l.strip().split('\t')) + sep
                 text_list.append(text)
+                id_list.append(pxdid+'\t'+pmid)
             except IndexError:
                 print(i, l, sep = '\t', file = logf)
 
 all_preds = []
+all_ids = []
 for i in range(len(text_list)):
     enc = tokenizer(text_list[i],
                 padding="max_length",
@@ -67,9 +71,10 @@ for i in range(len(text_list)):
                     ).logits
     probs = torch.softmax(torch.tensor(logits.to('cpu')), dim=1)[:,1].numpy()
     all_preds += (probs > threshold).tolist()
+    all_ids += id_list[i]
     del enc
     gc.collect()
 
-with open('output/predictions.txt', 'w') as f:
-    for pred in all_preds:
-        print(pred, file = f)
+with open(f'output/{today}.txt', 'w') as f:
+    for i, pred in enumerate(all_preds):
+        print(all_ids[i], pred, sep = '\t', file = f)
