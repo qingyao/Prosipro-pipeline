@@ -30,23 +30,27 @@ tokenizer = AutoTokenizer.from_pretrained(model_dir)
 model.eval()
 
 text_list = []
-with open(text_path) as f:
-    for l in f:
-        if model_type == 'WordPiece':
-            sep = '[SEP]'
-            start = '[CLS]'
-        else:
-            sep = '</s>'
-            start = '<s>'
-        
-        ll = l.strip().split('\t')
-        text = start + ' Title: ' + ll[0] + \
-                sep + ' Dataset Title: ' + ll[1] + \
-                sep + ' Keywords: ' + ll[2] + \
-                sep + ' Abstract: ' + ll[3] + \
-                sep        
-        # text = start + sep.join(l.strip().split('\t')) + sep
-        text_list.append(text)
+with open('output/predictions.log', 'w') as logf:
+    with open(text_path) as f:
+        for i, l in enumerate(f):
+            if model_type == 'WordPiece':
+                sep = '[SEP]'
+                start = '[CLS]'
+            else:
+                sep = '</s>'
+                start = '<s>'
+            
+            ll = l.strip().split('\t')
+            try:
+                text = start + ' Title: ' + ll[0] + \
+                        sep + ' Dataset Title: ' + ll[1] + \
+                        sep + ' Keywords: ' + ll[2] + \
+                        sep + ' Abstract: ' + ll[3] + \
+                        sep        
+                # text = start + sep.join(l.strip().split('\t')) + sep
+                text_list.append(text)
+            except IndexError:
+                print(i, l, sep = '\t', file = logf)
 
 all_preds = []
 for i in range(len(text_list)):
