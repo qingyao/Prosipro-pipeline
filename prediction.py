@@ -71,7 +71,7 @@ for i in range(len(text_list)):
                     ).logits
     probs = torch.softmax(torch.tensor(logits.to('cpu')), dim=1)[:,1].numpy()
     all_preds += (probs > threshold).tolist()
-    all_ids += id_list[i]
+    all_ids.append(id_list[i])
     del enc
     gc.collect()
 

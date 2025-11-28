@@ -1,2000 +1,2000 @@
-P	True
-X	False
-D	False
-0	False
-4	False
-0	True
-3	False
-9	False
-9	False
-		False
-1	False
-0	False
-1	False
-1	False
-7	False
-4	False
-0	False
-4	False
-P	False
-X	True
-D	False
-0	False
-4	False
-0	False
-4	True
-8	False
-6	False
-		True
-1	True
-0	False
-2	False
-2	False
-2	False
-1	False
-2	True
-7	False
-P	True
-X	False
-D	False
-0	True
-4	False
-3	False
-7	False
-0	False
-9	False
-		False
-1	False
-0	False
-5	False
-6	False
-3	False
-1	False
-5	False
-5	True
-P	True
-X	False
-D	False
-0	False
-5	False
-2	False
-7	True
-5	False
-8	True
-		False
-1	False
-1	False
-5	False
-4	False
-9	False
-3	False
-6	False
-5	False
-P	True
-X	False
-D	True
-0	False
-3	False
-1	False
-0	False
-1	False
-5	False
-		False
-1	True
-8	True
-2	False
-8	False
-3	False
-4	False
-0	True
-P	False
-X	True
-D	False
-0	False
-0	False
-0	False
-6	False
-9	False
-9	False
-		False
-1	False
-8	False
-5	True
-4	False
-6	False
-4	True
-7	False
-2	False
-P	False
-X	False
-D	False
-0	False
-2	False
-0	False
-4	True
-4	False
-9	False
-		False
-1	False
-9	False
-1	False
-5	False
-5	True
-2	True
-1	False
-7	False
-P	False
-X	False
-D	True
-0	False
-0	True
-6	False
-4	False
-8	False
-4	False
-		False
-2	False
-0	False
-6	True
-1	False
-5	False
-8	False
-7	False
-3	False
-P	False
-X	False
-D	False
-0	False
-0	False
-6	True
-1	True
-4	False
-8	False
-		False
-2	False
-1	False
-1	False
-8	False
-9	False
-4	True
-1	False
-7	False
-P	False
-X	False
-D	False
-0	False
-1	False
-0	True
-2	False
-1	False
-5	False
-		False
-2	True
-1	False
-1	True
-9	False
-1	False
-0	False
-3	False
-2	True
-P	False
-X	True
-D	False
-0	True
-4	False
-1	False
-9	False
-5	False
-8	False
-		False
-2	False
-1	False
-2	False
-8	False
-5	False
-4	False
-1	True
-4	True
-P	False
-X	True
-D	False
-0	False
-1	False
-0	False
-1	False
-5	False
-2	True
-		False
-2	False
-1	False
-4	False
-7	False
-2	False
-5	False
-2	False
-8	False
-P	False
-X	False
-D	False
-0	False
-3	False
-4	False
-8	False
-7	False
-7	False
-		False
-2	False
-1	False
-7	False
-1	False
-4	False
-5	True
-4	False
-9	True
-P	False
-X	True
-D	True
-0	False
-1	False
-5	True
-7	True
-5	False
-6	False
-		False
-2	False
-1	False
-8	False
-4	False
-2	True
-8	False
-6	False
-2	False
-P	False
-X	False
-D	True
-0	False
-0	False
-8	False
-9	True
-6	False
-9	False
-		False
-2	True
-1	False
-9	False
-6	True
-3	False
-2	False
-7	False
-4	False
-P	False
-X	False
-D	False
-0	True
-0	False
-3	True
-9	True
-1	False
-9	False
-		True
-2	False
-2	False
-2	False
-6	False
-1	False
-1	False
-9	False
-4	False
-P	False
-X	False
-D	True
-0	False
-0	True
-8	False
-3	False
-0	False
-2	False
-		False
-2	False
-2	True
-3	True
-9	False
-3	False
-2	True
-6	False
-2	True
-P	False
-X	False
-D	False
-0	False
-0	False
-2	False
-0	False
-9	False
-8	False
-		False
-2	True
-2	False
-4	False
-4	False
-2	False
-2	True
-5	False
-5	True
-P	False
-X	True
-D	False
-0	False
-0	False
-0	False
-5	False
-7	False
-5	False
-		False
-2	False
-2	False
-7	True
-0	True
-7	False
-6	False
-1	False
-8	True
-P	False
-X	False
-D	False
-0	False
-1	False
-4	True
-8	True
-3	False
-4	True
-		False
-2	False
-2	False
-8	False
-1	False
-0	True
-6	False
-9	False
-6	False
-P	False
-X	False
-D	False
-0	True
-0	False
-0	False
-0	False
-0	False
-5	False
-		False
-2	False
-2	True
-8	False
-6	False
-4	False
-5	False
-6	False
-9	False
-P	False
-X	False
-D	True
-0	False
-0	True
-2	False
-2	True
-8	False
-7	False
-		False
-2	False
-2	False
-8	False
-6	False
-5	False
-9	True
-1	True
-9	False
-P	True
-X	False
-D	True
-0	False
-0	False
-0	False
-0	False
-1	False
-4	False
-		True
-2	False
-2	False
-9	False
-1	False
-5	True
-8	False
-2	False
-4	False
-P	False
-X	False
-D	False
-0	False
-0	True
-0	False
-0	False
-0	False
-4	True
-		False
-2	True
-2	True
-9	True
-4	False
-2	False
-3	False
-5	False
-9	False
-P	True
-X	False
-D	False
-0	False
-0	False
-0	True
-0	False
-1	False
-7	False
-		True
-2	False
-2	True
-9	True
-9	False
-7	False
-1	False
-4	True
-3	False
-P	False
-X	False
-D	False
-0	True
-0	True
-0	False
-0	False
-2	False
-5	False
-		False
-2	False
-3	False
-0	False
-3	False
-0	False
-6	True
-8	False
-2	False
-P	False
-X	False
-D	False
-0	True
-0	False
-0	False
-0	False
-0	False
-7	False
-		True
-2	False
-3	True
-0	False
-8	False
-1	False
-7	False
-0	False
-3	False
-P	False
-X	False
-D	True
-0	False
-0	False
-0	False
-7	False
-1	False
-1	False
-		False
-2	False
-3	False
-0	True
-9	False
-0	False
-9	False
-7	False
-1	False
-P	True
-X	False
-D	False
-0	False
-0	True
-3	False
-9	False
-1	False
-4	False
-		True
-2	False
-3	False
-1	False
-4	False
-5	False
-0	False
-5	True
-1	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-0	False
-2	False
-7	True
-		False
-2	False
-3	False
-1	False
-7	False
-2	False
-5	False
-8	False
-8	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	True
-0	False
-4	False
-8	False
-		False
-2	False
-3	False
-1	False
-7	False
-2	False
-8	False
-9	False
-2	True
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-0	False
-8	False
-3	False
-		False
-2	False
-3	True
-2	False
-5	False
-8	False
-5	False
-3	False
-5	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-0	False
-2	False
-6	False
-		False
-2	False
-3	False
-2	False
-9	False
-7	False
-3	False
-4	False
-9	False
-P	False
-X	True
-D	False
-0	False
-0	False
-0	True
-0	False
-3	False
-6	False
-		False
-2	False
-3	False
-3	False
-0	False
-0	False
-1	True
-2	False
-1	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-8	False
-2	False
-1	False
-		True
-2	False
-3	False
-3	False
-7	False
-5	False
-3	False
-7	False
-5	False
-P	False
-X	False
-D	False
-0	True
-0	True
-0	False
-0	True
-4	False
-7	True
-		False
-2	False
-3	False
-4	False
-0	False
-3	True
-2	False
-9	False
-2	False
-P	False
-X	False
-D	True
-0	False
-0	False
-0	False
-0	False
-2	False
-0	False
-		True
-2	False
-3	False
-4	False
-0	False
-8	False
-6	False
-8	False
-4	True
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-0	False
-4	False
-3	False
-		False
-2	True
-3	True
-4	False
-1	False
-6	False
-1	False
-3	False
-2	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-1	False
-4	False
-3	False
-		True
-2	False
-3	False
-4	False
-3	False
-4	False
-3	True
-2	True
-2	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	True
-1	False
-1	False
-3	False
-		False
-2	False
-3	False
-4	False
-6	False
-0	False
-8	False
-5	False
-2	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-1	False
-2	False
-7	False
-		False
-2	False
-3	False
-5	False
-0	True
-3	False
-7	False
-4	True
-6	False
-P	False
-X	False
-D	True
-0	False
-0	False
-0	False
-1	True
-7	False
-2	False
-		False
-2	False
-3	False
-5	True
-0	True
-8	False
-1	False
-0	False
-2	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-1	False
-0	False
-9	True
-		False
-2	True
-3	False
-5	False
-1	True
-0	False
-1	False
-6	False
-0	False
-P	False
-X	False
-D	True
-0	False
-0	False
-5	False
-2	False
-9	False
-9	True
-		False
-2	False
-3	False
-5	False
-1	True
-9	False
-6	False
-1	False
-4	False
-P	False
-X	False
-D	True
-0	True
-0	False
-0	False
-1	False
-7	True
-1	True
-		False
-2	False
-3	False
-5	False
-3	False
-8	True
-2	False
-2	False
-6	False
-P	False
-X	False
-D	False
-0	False
-0	True
-4	False
-1	False
-0	False
-7	False
-		True
-2	True
-3	False
-5	False
-4	False
-1	True
-7	True
-1	False
-5	False
-P	False
-X	False
-D	False
-0	False
-4	False
-1	False
-6	True
-9	False
-5	True
-		False
-2	False
-3	False
-5	True
-5	False
-7	False
-8	False
-5	False
-2	False
-P	False
-X	False
-D	False
-0	True
-0	False
-0	False
-3	False
-6	False
-1	False
-		True
-2	False
-3	False
-5	False
-8	False
-3	False
-0	False
-7	False
-7	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-0	True
-0	False
-6	False
-		False
-2	True
-3	False
-6	False
-0	False
-6	False
-3	False
-3	False
-4	True
-P	True
-X	False
-D	False
-0	False
-0	False
-0	True
-2	False
-2	True
-2	False
-		False
-2	True
-3	True
-6	False
-1	True
-2	True
-7	False
-1	False
-0	False
-P	False
-X	False
-D	False
-0	False
-0	True
-0	False
-1	False
-5	False
-8	False
-		False
-2	True
-3	False
-6	True
-1	False
-9	False
-2	False
-9	False
-4	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-2	True
-1	False
-7	True
-		False
-2	True
-3	True
-6	False
-2	False
-8	False
-3	False
-6	False
-2	False
-P	False
-X	True
-D	False
-0	False
-0	False
-0	False
-1	False
-8	False
-2	True
-		False
-2	True
-3	False
-6	False
-3	False
-0	False
-2	False
-8	False
-5	False
-P	False
-X	False
-D	False
-0	True
-0	False
-0	True
-2	False
-0	False
-1	False
-		False
-2	False
-3	False
-6	False
-5	False
-9	False
-3	False
-6	False
-6	False
-P	False
-X	False
-D	False
-0	False
-0	False
-4	False
-3	False
-3	True
-8	True
-		False
-2	False
-3	False
-6	True
-6	False
-5	False
-0	False
-0	False
-0	True
-P	False
-X	False
-D	False
-0	False
-4	False
-2	False
-9	True
-9	False
-9	False
-		False
-2	False
-3	False
-6	False
-6	False
-9	False
-0	False
-3	False
-1	False
-P	False
-X	False
-D	False
-0	False
-1	False
-0	False
-5	False
-3	False
-5	False
-		False
-2	False
-3	False
-6	False
-8	False
-9	False
-2	False
-8	False
-5	True
-P	False
-X	True
-D	False
-0	True
-2	False
-3	True
-8	True
-2	False
-5	False
-		True
-2	False
-3	False
-6	False
-9	False
-0	False
-6	False
-1	False
-2	False
-P	False
-X	False
-D	False
-0	False
-0	True
-0	False
-2	False
-3	False
-9	False
-		False
-2	False
-3	False
-6	False
-9	False
-2	False
-2	True
-5	False
-4	False
-P	False
-X	False
-D	False
-0	True
-0	False
-0	False
-0	False
-0	False
-1	False
-		False
-2	False
-3	False
-6	False
-9	False
-2	False
-9	False
-6	False
-0	False
-P	False
-X	True
-D	False
-0	False
-0	False
-0	True
-2	False
-4	False
-7	False
-		False
-2	False
-3	False
-7	False
-0	False
-7	False
-2	False
-3	False
-5	False
-P	False
-X	False
-D	False
-0	False
-2	False
-3	True
-8	False
-2	False
-4	False
-		False
-2	False
-3	False
-7	True
-1	False
-7	False
-5	False
-4	False
-6	False
-P	True
-X	False
-D	False
-0	False
-0	False
-0	False
-0	True
-6	False
-9	False
-		True
-2	False
-3	False
-7	True
-3	False
-4	False
-2	True
-0	False
-9	False
-P	False
-X	True
-D	False
-0	False
-0	False
-0	False
-1	False
-5	False
-1	False
-		False
-2	True
-3	False
-7	False
-3	False
-4	False
-8	False
-2	False
-5	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-1	False
-6	False
-3	True
-		False
-2	True
-3	False
-7	False
-4	True
-4	False
-9	False
-4	False
-5	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	True
-1	False
-2	False
-9	False
-		False
-2	False
-3	True
-7	True
-4	False
-9	False
-8	False
-6	False
-9	False
-P	True
-X	False
-D	False
-0	False
-0	False
-0	False
-0	False
-3	False
-0	False
-		True
-2	False
-3	True
-7	False
-5	False
-4	False
-4	False
-9	False
-5	True
-P	False
-X	True
-D	False
-0	False
-0	False
-0	False
-2	False
-1	False
-4	False
-		False
-2	False
-3	False
-7	True
-6	True
-3	False
-7	False
-1	False
-0	False
-P	True
-X	False
-D	True
-0	False
-0	False
-0	True
-2	False
-7	True
-5	False
-		False
-2	False
-3	True
-7	False
-7	False
-0	False
-2	False
-4	False
-4	False
-P	False
-X	False
-D	False
-0	False
-0	True
-0	False
-2	False
-3	True
-5	False
-		False
-2	True
-3	False
-7	False
-7	False
-9	False
-0	False
-8	True
-6	False
-P	False
-X	False
-D	True
-0	False
-0	False
-0	False
-3	False
-8	False
-6	False
-		False
-2	False
-3	False
-7	True
-9	False
-3	False
-2	False
-3	False
-8	True
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-1	True
-9	False
-4	True
-		False
-2	False
-3	True
-7	True
-9	False
-7	False
-9	False
-7	False
-4	False
-P	False
-X	False
-D	True
-0	False
-0	True
-0	True
-1	False
-6	False
-0	False
-		False
-2	False
-3	False
-8	False
-0	False
-8	False
-8	False
-0	False
-7	False
-P	False
-X	True
-D	False
-0	False
-0	False
-0	False
-2	False
-1	True
-9	False
-		False
-2	False
-3	False
-8	True
-2	True
-8	False
-8	True
-9	False
-4	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-4	False
-0	False
-6	False
-		False
-2	False
-3	True
-8	False
-3	True
-2	False
-1	False
-3	False
-6	False
-P	False
-X	False
-D	False
-0	False
-1	False
-2	False
-6	False
-1	False
-4	False
-		True
-2	True
-3	False
-8	False
-3	True
-9	False
-9	False
-1	False
-2	False
-P	False
-X	True
-D	True
-0	False
-0	False
-0	False
-1	True
-9	False
-0	True
-		False
-2	False
-3	True
-8	False
-6	True
-9	False
-5	False
-5	False
-5	False
-P	False
-X	False
-D	False
-0	True
-0	False
-0	False
-2	False
-2	False
-5	False
-		False
-2	True
-3	False
-8	False
-7	False
-9	False
-2	False
-6	False
-9	False
-P	False
-X	False
-D	True
-0	False
-0	False
-0	False
-1	False
-8	False
-4	False
-		False
-2	True
-3	False
-9	False
-0	False
-1	False
-8	False
-4	False
-1	False
-P	False
-X	True
-D	False
-0	False
-0	False
-0	False
-0	False
-9	False
-5	False
-		False
-2	True
-3	False
-9	False
-0	False
-5	False
-5	False
-4	False
-1	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-2	False
-5	False
-8	False
-		False
-2	True
-3	False
-9	False
-0	False
-7	False
-8	False
-1	True
-2	False
-P	False
-X	False
-D	False
-0	False
-0	False
-8	False
-9	False
-1	False
-4	False
-		False
-2	False
-3	False
-9	False
-1	False
-2	True
-2	False
-7	False
-7	False
-P	False
-X	True
-D	False
-0	False
-0	False
-0	False
-0	False
-8	True
-2	False
-		False
-2	False
-3	False
-9	False
-3	False
-3	False
-1	False
-5	False
-9	False
-P	True
-X	False
-D	False
-0	False
-1	False
-2	True
-7	False
-2	True
-7	False
-		False
-2	False
-3	False
-9	True
-3	False
-4	False
-6	False
-5	False
-7	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-0	False
-7	False
-8	True
-		False
-2	False
-3	False
-9	False
-3	False
-7	False
-0	False
-9	False
-9	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-3	False
-3	True
-5	True
-		False
-2	False
-3	False
-9	False
-4	False
-0	False
-7	False
-7	False
-8	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-1	False
-6	False
-8	False
-		True
-2	False
-3	False
-9	False
-4	True
-3	False
-5	False
-0	False
-5	False
-P	False
-X	False
-D	False
-0	False
-0	True
-0	False
-3	True
-5	True
-3	False
-		False
-2	False
-3	False
-9	False
-4	False
-6	False
-4	False
-6	False
-8	False
-P	False
-X	False
-D	True
-0	False
-0	False
-0	False
-2	False
-7	False
-8	False
-		False
-2	False
-3	False
-9	False
-5	False
-7	True
-2	False
-7	False
-7	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	True
-0	False
-3	False
-5	False
-		False
-2	True
-3	False
-9	False
-7	False
-0	False
-4	False
-8	False
-9	False
-P	False
-X	False
-D	True
-0	True
-0	False
-0	False
-7	False
-1	False
-3	False
-		False
-2	False
-3	False
-9	True
-7	False
-7	False
-2	False
-5	False
-4	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-2	True
-3	False
-3	False
-		True
-2	False
-3	True
-9	True
-8	False
-8	True
-8	False
-2	False
-8	True
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-3	False
-8	False
-3	True
-		False
-2	False
-3	False
-9	False
-9	True
-1	False
-6	False
-6	False
-6	True
-P	False
-X	True
-D	False
-0	False
-0	False
-0	True
-4	False
-2	False
-0	False
-		False
-2	False
-4	False
-0	False
-0	False
-7	False
-6	True
-6	False
-0	True
-P	False
-X	False
-D	False
-0	False
-0	False
-0	True
-3	False
-0	False
-5	False
-		False
-2	True
-4	False
-0	False
-1	False
-2	False
-6	False
-2	False
-9	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	True
-2	False
-8	False
-0	False
-		False
-2	False
-4	False
-0	False
-1	False
-9	False
-1	False
-4	False
-5	False
-P	True
-X	False
-D	False
-0	False
-0	False
-0	False
-0	False
-6	False
-7	False
-		False
-2	True
-4	False
-0	False
-2	False
-3	False
-0	False
-6	True
-1	False
-P	False
-X	False
-D	False
-0	True
-0	False
-0	False
-3	False
-8	False
-4	False
-		False
-2	False
-4	True
-0	False
-2	False
-3	False
-2	True
-5	False
-5	True
-P	False
-X	False
-D	False
-0	False
-0	True
-0	False
-1	False
-8	False
-0	False
-		False
-2	True
-4	True
-0	False
-3	False
-3	False
-5	False
-1	True
-1	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-4	False
-6	False
-4	False
-		False
-2	False
-4	False
-0	True
-5	False
-6	False
-7	False
-3	False
-6	False
-P	False
-X	False
-D	True
-0	False
-0	False
-0	False
-3	False
-9	True
-9	False
-		False
-2	False
-4	False
-0	True
-8	True
-5	False
-8	False
-5	False
-3	False
-P	False
-X	True
-D	False
-0	False
-0	True
-0	True
-4	False
-7	False
-7	False
-		False
-2	False
-4	False
-0	True
-9	True
-0	True
-0	False
-3	False
-2	False
-P	False
-X	True
-D	False
-0	False
-0	False
-0	False
-3	False
-9	False
-8	False
-		True
-2	False
-4	False
-1	False
-2	False
-2	False
-8	False
-2	False
-9	False
-P	False
-X	False
-D	True
-0	False
-0	False
-0	False
-4	False
-1	False
-5	False
-		False
-2	False
-4	False
-1	False
-2	True
-6	False
-1	False
-4	False
-2	False
-P	False
-X	False
-D	False
-0	False
-0	True
-0	False
-1	False
-6	True
-9	True
-		True
-2	False
-4	False
-1	False
-2	True
-7	False
-7	False
-8	False
-4	True
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-3	False
-7	False
-8	False
-		True
-2	False
-4	True
-1	True
-2	False
-7	False
-9	False
-0	False
-7	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-4	False
-2	True
-6	False
-		False
-2	True
-4	False
-1	False
-3	False
-4	False
-5	False
-1	False
-3	False
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-4	False
-8	False
-8	False
-		False
-2	False
-4	False
-1	False
-3	False
-4	False
-8	False
-0	False
-4	True
-P	False
-X	False
-D	False
-0	False
-0	False
-0	False
-4	True
-4	True
-3	False
-		False
-2	True
-4	False
-1	False
-3	False
-8	False
-4	False
-7	False
-4	False
-P	False
-X	True
-D	False
-0	True
-1	True
-0	False
-4	False
-8	False
-7	False
-		False
-2	False
-4	False
-1	False
-4	False
-0	False
-2	False
-7	False
-9	False
-P	True
-X	False
-D	True
-0	False
-0	False
-0	False
-1	False
-6	True
-2	False
-		False
-2	False
-4	False
-1	False
-4	False
-0	False
-5	False
-6	False
-9	False
-P	False
-X	False
-D	False
+PXD040399	10117404	True
+PXD040486	10222127	False
+PXD043709	10563155	False
+PXD052758	11549365	False
+PXD031015	1828340	False
+PXD000699	18546472	True
+PXD020449	19155217	False
+PXD006484	20615873	False
+PXD006148	21189417	False
+PXD010215	21191032	False
+PXD041958	21285414	False
+PXD010152	21472528	False
+PXD034877	21714549	False
+PXD015756	21842862	False
+PXD008969	21963274	False
+PXD003919	22261194	False
+PXD008302	22393262	False
+PXD002098	22442255	False
+PXD000575	22707618	False
+PXD014834	22810696	True
+PXD000005	22864569	False
+PXD002287	22865919	False
+PXD000014	22915824	False
+PXD000004	22942359	False
+PXD000017	22997143	True
+PXD000025	23030682	False
+PXD000007	23081703	False
+PXD000711	23090971	True
+PXD003914	23145051	True
+PXD000027	23172588	False
+PXD000048	23172892	False
+PXD000083	23258535	False
+PXD000026	23297349	False
+PXD000036	23300121	False
+PXD000821	23375375	True
+PXD000047	23403292	False
+PXD000020	23408684	True
+PXD000043	23416132	False
+PXD000143	23434322	False
+PXD000113	23460852	True
+PXD000127	23503746	False
+PXD000172	23508102	False
+PXD000109	23510160	False
+PXD005299	23519614	False
+PXD000171	23538226	False
+PXD004107	23541715	False
+PXD041695	23557852	False
+PXD000361	23583077	False
+PXD000006	23606334	False
+PXD000222	23612710	False
+PXD000158	23619294	False
+PXD000217	23628362	False
+PXD000182	23630285	False
+PXD000201	23659366	True
+PXD004338	23665000	True
+PXD042999	23669031	False
+PXD010535	23689285	False
+PXD023825	23690612	False
+PXD000239	23692254	False
+PXD000001	23692960	False
+PXD000247	23707235	True
+PXD023824	23717546	False
+PXD000069	23734209	True
+PXD000151	23734825	False
+PXD000163	23744945	False
+PXD000129	23749869	False
+PXD000030	23754495	False
+PXD000214	23763710	False
+PXD000275	23770244	False
+PXD000235	23779086	False
+PXD000386	23793238	False
+PXD000194	23797974	False
+PXD000160	23808807	True
+PXD000219	23828894	False
+PXD000406	23832136	True
+PXD012614	23839912	False
+PXD000190	23869555	False
+PXD000225	23879269	False
+PXD000184	23901841	False
+PXD000095	23905541	False
+PXD000258	23907812	False
+PXD008914	23912277	False
+PXD000082	23933159	True
+PXD012727	23934657	True
+PXD000078	23937099	False
+PXD000335	23940778	False
+PXD000168	23943505	False
+PXD000353	23946468	False
+PXD000278	23957277	True
+PXD000035	23970489	False
+PXD000713	23977254	True
+PXD000233	23988828	False
+PXD000383	23991666	False
+PXD000420	24007660	False
+PXD000305	24012629	False
+PXD000280	24019145	False
+PXD000067	24023061	False
+PXD000384	24023255	False
+PXD000180	24033511	False
+PXD000464	24056736	False
+PXD000399	24085853	False
+PXD000477	24090032	True
+PXD000398	24122829	False
+PXD000415	24126142	False
+PXD000169	24127784	True
+PXD000378	24127907	False
+PXD000426	24134513	False
+PXD000488	24134804	False
+PXD000443	24138474	False
+PXD010487	24140279	False
+PXD000162	24140569	False
+PXD000504	24152167	False
+PXD000274	24152285	False
+PXD012499	24152304	True
+PXD000345	24152719	False
+PXD006057	24162925	False
+PXD000387	24171499	False
+PXD000306	24174285	False
+PXD000332	24190977	False
+PXD001277	24194745	False
+PXD000461	24201379	False
+PXD000578	24211767	True
+PXD000312	24224561	True
+PXD000053	24227553	False
+PXD000580	24237138	False
+PXD000489	24239514	False
+PXD000238	24248375	False
+PXD000327	24259518	True
+PXD000243	24270157	False
+PXD000548	24274931	True
+PXD000437	24284412	False
+PXD000203	24293237	False
+PXD000602	24295401	False
+PXD000440	24298013	False
+PXD000520	24300896	False
+PXD000675	24303842	False
+PXD000538	24312217	False
+PXD000537	24312219	True
+PXD000623	24313378	False
+PXD000314	24313913	False
+PXD000334	24316359	False
+PXD000375	24319056	False
+PXD000529	24328083	False
+PXD004604	24328109	False
+PXD000302	24333391	False
+PXD000340	24335353	False
+PXD002769	24336202	False
+PXD000422	24345786	False
+PXD000446	24361574	True
+PXD000255	24361864	True
+PXD000450	24366607	False
+PXD000476	24382153	False
+PXD028734	24391750	False
+PXD000022	24392111	False
+PXD000600	24396086	False
+PXD003502	24413531	False
+PXD000557	24416096	False
+PXD000277	24421388	False
+PXD000472	24425749	True
+PXD000695	24434149	False
+PXD000588	24445406	False
+PXD000637	24452867	False
+PXD000438	24453208	False
+PXD000475	24454955	False
+PXD000515	24458638	False
+PXD000487	24463964	False
+PXD000581	24478445	True
+PXD000507	24489116	False
+PXD000106	24493364	False
+PXD000266	24511133	False
+PXD008659	24529705	False
+PXD000191	24550302	True
+PXD000712	24552149	False
+PXD000356	24556281	True
+PXD003932	24560892	False
+PXD000348	24561353	False
+PXD000559	24563534	False
+PXD000445	24567419	False
+PXD000738	24569529	True
+PXD000579	24573368	False
+PXD000363	24574175	True
+PXD005002	24580811	False
+PXD000591	24591515	True
+PXD000686	24598821	False
+PXD017769	24603811	False
+PXD004233	24616531	False
+PXD000620	24621924	False
+PXD000556	24633370	False
+PXD000799	24641125	False
+PXD000218	24648465	False
+PXD000070	24657495	False
+PXD000852	24668886	False
+PXD000916	24684310	False
+PXD000679	24687421	False
+PXD000851	24687888	False
+PXD000355	24687995	True
+PXD000900	24696503	True
+PXD000117	24700864	False
+PXD000836	24702127	True
+PXD000762	24704852	False
+PXD000223	24714165	False
+PXD009801	24715725	False
+PXD000928	24722184	False
+PXD000860	24741112	False
+PXD000704	24741114	False
+PXD000051	24741115	True
+PXD000260	24742827	False
+PXD000514	24748648	False
+PXD000748	24752076	False
+PXD000789	24753410	False
+PXD000714	24769239	False
+PXD000228	24776597	False
+PXD000850	24782448	False
+PXD005077	24783206	False
+PXD000795	24786776	False
+PXD000779	24788519	False
+PXD000629	24799432	False
+PXD000318	24801114	False
+PXD000301	24802182	False
+PXD000681	24804581	False
+PXD001057	24808101	False
+PXD000934	24816145	False
+PXD000625	24818710	False
+PXD000871	24820872	False
+PXD000758	24841622	False
+PXD000873	24845418	False
+PXD000293	24850871	False
+PXD001047	24854137	False
+PXD000802	24872595	False
+PXD000924	24874924	False
+PXD000587	24876255	True
+PXD000730	24878426	False
+PXD000868	24885693	True
+PXD000948	24888630	False
+PXD000987	24889196	True
+PXD000750	24895378	True
+PXD000932	24902122	False
+PXD000880	24904603	False
+PXD001030	24924297	True
+PXD000875	24925269	True
+PXD000573	24926786	False
+PXD001011	24933266	False
+PXD000544	24938286	False
+PXD001004	24939894	False
+PXD000761	24941444	False
+PXD000279	24942700	False
+PXD001007	24946870	False
+PXD000554	24961812	True
+PXD000115	24965446	False
+PXD000982	24965873	False
+PXD001001	24973421	False
+PXD001187	24986539	False
+PXD001025	24990792	False
+PXD000978	24994560	True
+PXD000773	24995952	False
+PXD000670	24997996	False
+PXD000310	24999909	False
+PXD000118	25005615	True
+PXD000357	25022875	False
+PXD000676	25034824	False
+PXD000534	25034945	False
+PXD001185	25038065	True
+PXD000956	25043023	False
+PXD000441	25044641	False
+PXD000909	25044914	True
+PXD000822	25053255	False
+PXD001190	25064064	False
+PXD000759	25068997	False
+PXD000962	25069088	False
+PXD000616	25069693	False
+PXD000640	25069755	False
+PXD001018	25069953	False
+PXD001019	25073701	True
+PXD001154	25074979	False
+PXD000624	25080971	True
+PXD001254	25086240	True
+PXD001032	25088745	False
+PXD015748	25092142	False
+PXD001120	25096814	True
+PXD001176	25096996	False
+PXD001100	25097252	False
+PXD001058	25104955	False
+PXD000770	25109464	False
+PXD000606	25109467	False
+PXD000816	25114174	False
+PXD000459	25114211	False
+PXD000715	25116090	False
+PXD000862	25116144	False
+PXD000706	25118235	False
+PXD000950	25120180	True
+PXD001056	25122472	False
+PXD001163	25124718	True
+PXD000380	25128556	False
+PXD005900	25131207	False
+PXD000806	25145454	False
+PXD001106	25151659	False
+PXD001026	25152083	False
+PXD015549	25153930	False
+PXD001069	25156581	True
+PXD000572	25158935	True
+PXD000612	25159151	False
+PXD000965	25170432	False
+PXD001262	25172955	True
+PXD015907	25175731	False
+PXD001112	25181701	True
+PXD000707	25187158	False
+PXD000888	25198380	False
+PXD000856	25216269	False
+PXD001061	25218447	False
+PXD000985	25219547	False
+PXD001292	25231903	False
+PXD000837	25236605	False
+PXD001195	25242221	False
+PXD002687	25255805	False
+PXD001249	25257309	False
+PXD001029	25260035	True
+PXD001130	25262930	False
+PXD001339	25265333	False
+PXD001095	25290099	False
+PXD000981	25295873	False
+PXD012889	25304470	True
+PXD001356	25315396	False
+PXD001125	25316036	True
+PXD001168	25316064	False
+PXD058308	25316709	True
+PXD001404	25338131	False
+PXD001237	25344755	False
+PXD001214	25344756	False
+PXD001260	25354783	False
+PXD001453	25356801	False
+PXD000381	25367092	False
+PXD001340	25372051	False
+PXD000634	25388987	False
+PXD001036	25403415	False
+PXD001101	25404012	False
+PXD000261	25404878	True
+PXD000742	25406675	True
+PXD000382	25412983	False
+PXD000543	25413384	False
+PXD001113	25419962	False
+PXD000853	25429762	True
+PXD001217	25452133	False
+PXD000296	25453901	False
+PXD001177	25464831	False
+PXD001414	25464976	False
+PXD000448	25468996	False
+PXD000867	25470552	True
+PXD006274	25471130	True
+PXD001075	25475747	False
+PXD000551	25489052	True
+PXD001301	25490046	False
+PXD001650	25495137	False
+PXD000716	25497329	False
+PXD001205	25502872	False
+PXD001456	25503233	False
+PXD001446	25506391	True
+PXD001226	25518064	False
+PXD001201	25531588	False
+PXD001269	25532521	False
+PXD000497	25538140	False
+PXD001079	25540406	False
+PXD001240	25545627	False
+PXD000782	25546135	True
+PXD002278	25551446	False
+PXD001043	25561571	False
+PXD001501	25562820	False
+PXD001186	25573745	False
+PXD001372	25575281	False
+PXD000394	25576301	False
+PXD005318	25576853	False
+PXD001631	25580831	True
+PXD001427	25586196	False
+PXD000660	25588737	False
+PXD000697	25593058	False
+PXD001273	25605797	False
+PXD000155	25609142	False
+PXD001074	25609615	False
+PXD001533	25611981	False
+PXD001584	25616868	False
+PXD000960	25622294	True
+PXD001194	25624350	False
+PXD001512	25645933	True
+PXD001485	25650440	False
+PXD000998	25652794	True
+PXD001406	25657249	False
+PXD001465	25668313	False
+PXD001126	25675208	False
+PXD001109	25686879	False
+PXD001739	25690013	False
+PXD001562	25693797	False
+PXD001680	25699542	False
+PXD001838	25717101	False
+PXD001272	25728068	True
+PXD001601	25728394	True
+PXD000528	25728708	False
+PXD000672	25730263	True
+PXD001155	25732826	False
+PXD001131	25739499	True
+PXD000724	25748437	False
+PXD001377	25751058	False
+PXD001731	25755295	False
+PXD001660	25755299	False
+PXD001458	25764246	False
+PXD001526	25765363	False
+PXD001624	25769826	True
+PXD001810	25772364	False
+PXD001814	25772754	False
+PXD001204	25775238	False
+PXD001654	25775479	False
+PXD001385	25780947	True
+PXD001549	25782750	False
+PXD001762	25789746	False
+PXD004408	25792596	False
+PXD001635	25795785	False
+PXD001586	25798856	False
+PXD001411	25799987	False
+PXD001585	25799991	False
+PXD004993	25803623	True
+PXD004402	25807371	False
+PXD001863	25807930	False
+PXD001741	25818294	False
+PXD001083	25832669	True
+PXD004394	25838814	False
+PXD001105	25839225	True
+PXD000936	25845586	True
+PXD001666	25847399	True
+PXD000227	25848929	False
+PXD001873	25849741	False
+PXD001560	25850435	False
+PXD001929	25871631	False
+PXD001831	25873915	False
+PXD000644	25874956	True
+PXD001871	25887480	False
+PXD012414	25889401	False
+PXD000589	25894527	False
+PXD000811	25896609	False
+PXD001580	25896739	True
+PXD000029	25903579	False
+PXD004890	25909888	False
+PXD001785	25909947	False
+PXD000774	25914152	True
+PXD000911	25921291	False
+PXD001869	25929241	True
+PXD001471	25931155	True
+PXD001255	25931508	False
+PXD004401	25944384	False
+PXD001932	25952688	False
+PXD001482	25954265	True
+PXD001384	25957687	False
+PXD001949	25963833	False
+PXD002158	25969537	False
+PXD001348	25973932	False
+PXD000954	25977788	True
+PXD008284	25979772	True
+PXD001964	25982383	False
+PXD001908	25989903	False
+PXD002023	25990959	False
+PXD002031	26026062	False
+PXD002079	26029660	False
+PXD000927	26032504	False
+PXD001774	26035336	False
+PXD002022	26043137	False
+PXD002227	26047021	False
+PXD003461	26051182	False
+PXD001676	26054784	True
+PXD003151	26058579	False
+PXD001841	26058898	False
+PXD001798	26073453	False
+PXD001468	26076430	False
+PXD002151	26081071	False
+PXD001839	26084806	True
+PXD001425	26086942	False
+PXD001439	26092463	False
+PXD002195	26095360	False
+PXD002076	26095918	False
+PXD002269	26113366	False
+PXD002067	26124766	True
+PXD002100	26131905	False
+PXD002218	26136760	True
+PXD035324	26138685	False
+PXD002205	26142280	False
+PXD001525	26146184	False
+PXD002266	26149123	False
+PXD002154	26151409	False
+PXD002168	26158509	False
+PXD001958	26160915	False
+PXD001804	26162072	False
+PXD002235	26167961	True
+PXD000673	26179671	False
+PXD001976	26183718	False
+PXD002241	26183719	False
+PXD002070	26184334	False
+PXD002069	26184543	False
+PXD001473	26187819	False
+PXD002480	26199357	False
+PXD001490	26201687	False
+PXD001547	26201837	False
+PXD002453	26202631	True
+PXD001781	26205238	False
+PXD002183	26206133	False
+PXD003744	26207921	False
+PXD000057	26211688	False
+PXD002399	26212333	False
+PXD000731	26217725	True
+PXD002572	26223766	False
+PXD004403	26224564	False
+PXD002244	26230114	False
+PXD002345	26232167	True
+PXD001630	26238763	False
+PXD001729	26239621	False
+PXD002384	26244908	False
+PXD001495	26245374	False
+PXD002137	26245529	True
+PXD002413	26246429	False
+PXD002708	26256475	False
+PXD002187	26257763	False
+PXD001859	26258413	False
+PXD001805	26259872	False
+PXD001291	26265008	False
+PXD001617	26266535	True
+PXD001460	26267517	False
+PXD002594	26267804	False
+PXD002058	26269332	False
+PXD002546	26270474	False
+PXD001123	26279304	False
+PXD002598	26286023	False
+PXD001875	26288071	False
+PXD000212	26300262	False
+PXD002539	26300900	False
+PXD000687	26306318	True
+PXD002434	26310817	False
+PXD001529	26322327	False
+PXD000794	26324778	False
+PXD004376	26330466	False
+PXD001812	26330541	False
+PXD003513	26330542	False
+PXD001683	26332065	False
+PXD014452	26335048	False
+PXD000741	26338901	False
+PXD001895	26344131	False
+PXD002274	26344132	False
+PXD002670	26350902	False
+PXD001222	26356563	False
+PXD002756	26360816	False
+PXD002185	26370134	True
+PXD002214	26371159	False
+PXD004406	26376940	False
+PXD001256	26377011	False
+PXD002635	26378887	False
+PXD013774	26379230	False
+PXD002166	26379694	False
+PXD002254	26380837	False
+PXD002559	26381121	False
+PXD004011	26387727	False
+PXD000901	26388441	False
+PXD000963	26388710	False
+PXD001554	26391970	True
+PXD002867	26399495	False
+PXD002442	26404905	False
+PXD001767	26412298	False
+PXD002488	26415707	False
+PXD001992	26416202	False
+PXD002186	26419670	False
+PXD002724	26419955	False
+PXD002001	26421188	False
+PXD002535	26424599	False
+PXD001052	26425690	False
+PXD002674	26435392	False
+PXD001297	26441354	True
+PXD002834	26444874	False
+PXD004097	26445383	False
+PXD002585	26455267	False
+PXD002669	26463340	False
+PXD002557	26465754	False
+PXD001197	26468156	False
+PXD002127	26471730	False
+PXD004375	26471814	False
+PXD002339	26474164	False
+PXD001578	2647931	False
+PXD002743	26479789	False
+PXD002571	26480475	False
+PXD002633	26483418	False
+PXD001834	26486419	False
+PXD003043	26487105	False
+PXD001903	26493364	False
+PXD003018	26498687	False
+PXD002985	26499837	False
+PXD001483	26500610	False
+PXD000517	26501113	False
+PXD002900	26507392	False
+PXD002032	26527623	False
+PXD001566	26530123	False
+PXD002972	26537787	False
+PXD002073	26538417	False
+PXD002622	26539827	True
+PXD002606	26545401	False
+PXD002536	26546672	False
+PXD002943	26549460	False
+PXD001934	26553928	True
+PXD004904	26554430	False
+PXD002649	26555054	False
+PXD002810	26555894	False
+PXD004381	26560143	False
+PXD002279	26561651	False
+PXD002770	26566661	False
+PXD001571	26571101	False
+PXD002370	26572953	False
+PXD001393	26578544	False
+PXD003097	26580079	True
+PXD002530	26582801	False
+PXD003010	26583031	False
+PXD002426	26584780	False
+PXD002455	26585961	False
+PXD001344	26586425	False
+PXD003120	26588988	False
+PXD001892	26593974	False
+PXD002293	26595419	False
+PXD002498	26598647	False
+PXD002858	26603189	False
+PXD013103	26610024	False
+PXD001826	26616950	True
+PXD002500	26621385	False
+PXD002171	26626371	False
+PXD002706	26631510	False
+PXD002786	26635820	False
+PXD001843	26641092	False
+PXD002804	26641313	False
+PXD002479	26642319	False
+PXD002924	26644575	False
+PXD000397	26649326	False
+PXD003615	26651926	False
+PXD003133	26653327	False
+PXD002432	26656270	True
+PXD003115	26657352	True
+PXD002860	26658462	False
+PXD002586	26659305	True
+PXD002614	26670566	False
+PXD002899	26673895	True
+PXD003135	26675719	False
+PXD003264	26679294	False
+PXD001583	26682798	False
+PXD002848	26684831	False
+PXD002977	26688386	False
+PXD003254	26697039	True
+PXD002872	26698226	False
+PXD002857	26699799	False
+PXD002850	26699800	False
+PXD002141	26699813	False
+PXD003356	26700264	False
+PXD003124	26701646	True
+PXD003182	26701651	False
+PXD000988	26702051	False
+PXD002282	26703087	False
+PXD002234	26711008	False
+PXD002411	26714015	False
+PXD002452	26714524	False
+PXD003129	26718462	True
+PXD002292	26718731	False
+PXD001999	26722374	False
+PXD008441	26724764	False
+PXD002628	26725202	False
+PXD001898	26728094	False
+PXD003180	26728942	False
+PXD003029	26729804	False
+PXD001369	26731301	True
+PXD002691	26739245	False
+PXD003001	26739763	False
+PXD002354	26740262	False
+PXD001582	26742548	False
+PXD005075	26743025	False
+PXD003317	26743026	False
+PXD003054	26743206	False
+PXD002297	26744219	False
+PXD009565	26744403	False
+PXD002665	26745281	False
+PXD002517	26746581	True
+PXD001639	26748257	True
+PXD002405	26750096	False
+PXD003262	26751641	False
+PXD002103	26752685	False
+PXD003148	26753982	False
+PXD003573	26755725	False
+PXD006574	26755744	False
+PXD002727	26758180	False
+PXD003109	26760441	False
+PXD000895	26760575	False
+PXD002449	26764010	False
+PXD003238	26764011	False
+PXD002951	26764012	False
+PXD002521	26765561	False
+PXD002739	26767346	False
+PXD003095	26767403	False
+PXD003164	26768581	True
+PXD003189	26769563	False
+PXD002030	26771494	False
+PXD003434	26778141	False
+PXD002671	26778144	False
+PXD003311	26779156	False
+PXD003318	26781291	True
+PXD001974	26781476	True
+PXD025584	26782178	False
+PXD002735	26783066	False
+PXD003107	26789629	False
+PXD015044	26789759	False
+PXD003002	26791624	False
+PXD003042	26792808	False
+PXD002529	26793233	True
+PXD002532	26796116	False
+PXD002494	26797124	False
+PXD003159	26799765	False
+PXD001429	26801057	False
+PXD002787	26801685	False
+PXD001476	26801919	False
+PXD003426	26802628	False
+PXD001969	26804907	False
+PXD003249	26806181	False
+PXD003101	26810586	False
+PXD004964	26811146	False
+PXD002537	26811354	False
+PXD002162	26812498	False
+PXD002101	26814187	False
+PXD003076	26814232	False
+PXD002123	26815358	False
+PXD002957	26819315	False
+PXD003339	26822828	False
+PXD003071	26824392	False
+PXD002380	26828863	False
+PXD003152	26832403	False
+PXD001994	26832662	False
+PXD002720	26833789	False
+PXD002194	26834087	False
+PXD002291	26836501	False
+PXD003387	26837383	True
+PXD002460	26838549	False
+PXD003003	26839151	False
+PXD002979	26842662	True
+PXD001371	26845436	False
+PXD002771	26847502	False
+PXD003155	26850065	False
+PXD002270	26852163	True
+PXD001862	26853621	False
+PXD001952	26853623	False
+PXD003037	26854219	False
+PXD002634	26854600	True
+PXD001856	26857143	False
+PXD003257	26858453	False
+PXD003048	26861043	False
+PXD003509	26861875	False
+PXD003373	26863403	False
+PXD001997	26864644	True
+PXD002741	26867521	True
+PXD002398	26867958	False
+PXD003313	26870030	False
+PXD002327	26870755	False
+PXD002561	26871441	False
+PXD003025	26871455	False
+PXD003806	26882497	False
+PXD003495	26882986	False
+PXD002057	26883193	False
+PXD003586	26883595	False
+PXD000938	26884177	False
+PXD002645	26884507	False
+PXD001023	26884511	False
+PXD002548	26889046	True
+PXD001849	26889980	False
+PXD002369	26892159	True
+PXD002516	26892330	False
+PXD002091	26893308	False
+PXD002648	26896796	True
+PXD001930	26900021	False
+PXD003113	26900162	False
+PXD003130	26900400	False
+PXD003000	26900865	False
+PXD003442	26900923	False
+PXD003139	26903415	False
+PXD003358	26904073	True
+PXD002624	26912668	False
+PXD003499	26917472	False
+PXD003132	26923761	False
+PXD003122	26926440	False
+PXD001164	26928226	False
+PXD002986	26929115	True
+PXD001925	26929135	False
+PXD003660	26929352	False
+PXD003534	26933193	False
+PXD001981	26935289	False
+PXD003371	26937469	True
+PXD002029	26937473	False
+PXD003767	26938041	False
+PXD002726	26938934	False
+PXD003342	26939532	False
+PXD003298	26940098	False
+PXD003559	26947064	False
+PXD002391	26947931	True
+PXD003224	26948146	True
+PXD003075	26948580	False
+PXD003551	26949251	False
+PXD002657	26951071	False
+PXD003391	26951766	True
+PXD003577	26957043	True
+PXD002625	26957113	False
+PXD003081	26958645	False
+PXD002381	26958999	False
+PXD003678	26962051	False
+PXD010824	26966177	False
+PXD003524	26967195	True
+PXD003439	26969785	False
+PXD001085	26972000	False
+PXD003231	26973873	False
+PXD004388	26975353	False
+PXD012920	26980269	False
+PXD003027	26983404	False
+PXD003498	26984886	False
+PXD002655	26986205	True
+PXD002886	26987580	False
+PXD003382	26987684	False
+PXD002946	26988343	False
+PXD003337	26990150	False
+PXD002939	26992294	True
+PXD001622	26996810	True
+PXD036882	26997225	False
+PXD001652	26998524	False
+PXD000859	26998692	False
+PXD005100	26	True
+PXD002963	27001127	True
+PXD003419	27001287	False
+PXD003753	27003611	False
+PXD003276	27006477	False
+PXD003158	27008862	False
+PXD002565	27008969	False
+PXD005643	27010111	False
+PXD002393	27010757	False
+PXD003149	27014315	False
+PXD005701	27016040	True
+PXD002252	27016732	False
+PXD002344	27017623	True
+PXD002933	27018634	False
+PXD001689	27021271	False
+PXD003406	27025457	False
+PXD002732	27025787	True
+PXD003286	27025927	False
+PXD003888	27026526	False
+PXD001815	27029354	False
+PXD003078	27029611	False
+PXD003256	27034005	False
+PXD008323	27034094	False
+PXD003802	27035958	False
+PXD004059	27037516	False
+PXD003664	27040163	True
+PXD002830	27043018	False
+PXD002768	27044871	False
+PXD003554	27049334	False
+PXD003698	27050516	False
+PXD002188	27053602	False
+PXD003335	27053921	True
+PXD000752	27055832	False
+PXD003079	27056914	False
+PXD003350	27060339	False
+PXD003603	27064065	False
+PXD002390	27067051	False
+PXD003228	27067052	False
+PXD015017	27067054	False
+PXD002839	27067055	False
+PXD003233	27067626	False
+PXD003209	27068479	False
+PXD002555	27068509	False
+PXD003462	27070921	False
+PXD002545	27074791	False
+PXD003550	27075204	False
+PXD003372	27079982	True
+PXD003094	27080496	False
+PXD002990	27080861	False
+PXD003098	27081212	False
+PXD000915	27082425	True
+PXD003685	27083931	False
+PXD002781	27084891	False
+PXD003223	27087446	False
+PXD002847	27087653	False
+PXD003625	27089233	False
+PXD003269	27091080	False
+PXD001071	27093108	True
+PXD003653	27094026	True
+PXD003091	27094473	False
+PXD003386	27094474	False
+PXD003621	27095734	False
+PXD002846	27099343	False
+PXD003447	27100182	True
+PXD003924	27100780	False
+PXD003623	27103343	True
+PXD001776	27105822	False
+PXD001962	27107064	False
+PXD003822	27107777	True
+PXD003697	27109347	True
+PXD003579	27109353	False
+PXD002119	27110685	True
+PXD002342	27114036	True
+PXD002591	27114449	False
+PXD002929	27114452	False
+PXD000011	27117477	False
+PXD003279	27120771	False
+PXD003449	27121119	False
+PXD004386	27121749	False
+PXD002785	27122596	False
+PXD003815	27123864	True
+PXD003844	27125755	False
+PXD003677	27125826	False
+PXD002876	27125827	False
+PXD003865	27127236	False
+PXD003622	27128805	False
+PXD003271	27128972	True
+PXD002996	27128991	False
+PXD002922	27136060	True
+PXD003213	27136688	False
+PXD003938	27137489	False
+PXD001944	27141096	False
+PXD003105	27141528	False
+PXD002431	27142507	False
+PXD004111	27143358	False
+PXD002884	27143409	False
+PXD003781	27145088	False
+PXD002678	27146306	False
+PXD003485	27147131	False
+PXD003126	27147532	False
+PXD003292	27147818	True
+PXD003764	27148221	False
+PXD003735	27148305	True
+PXD000947	27148881	False
+PXD000907	27150359	True
+PXD003473	27150525	True
+PXD003492	27155012	False
+PXD002437	27155584	False
+PXD004741	27158779	False
+PXD003922	27160897	False
+PXD002836	27161445	False
+PXD004077	27161446	False
+PXD003136	27162549	False
+PXD001498	27167067	True
+PXD003503	27169413	False
+PXD002843	27169553	False
+PXD002638	27171912	False
+PXD003368	27172881	False
+PXD003720	27174546	False
+PXD001603	27174698	False
+PXD003821	27177187	True
+PXD003403	27178327	False
+PXD002927	27180971	True
+PXD003871	27184853	False
+PXD004175	27184855	False
+PXD003832	27185460	False
+PXD003970	27186238	False
+PXD004072	27188442	False
+PXD003064	27189269	False
+PXD008092	27189490	False
+PXD003252	27193186	False
+PXD002448	27193225	False
+PXD003561	27195445	False
+PXD003480	27197216	True
+PXD003898	27197221	False
+PXD008265	27197958	True
+PXD003658	27198063	False
+PXD003345	27199111	False
+PXD002090	27203355	False
+PXD004188	27213465	False
+PXD014703	27214592	False
+PXD003121	27215607	False
+PXD004026	27216279	False
+PXD003288	27216497	False
+PXD005086	27216938	False
+PXD002762	27217465	False
+PXD001954	27217537	False
+PXD004385	27219855	False
+PXD003511	27222042	False
+PXD003405	27224449	False
+PXD004010	27225868	False
+PXD002889	27226403	False
+PXD003709	27226594	False
+PXD004030	27228164	False
+PXD003845	27231314	False
+PXD003427	27231315	True
+PXD003827	27233093	True
+PXD002950	27234505	False
+PXD003596	27239679	False
+PXD003792	27245613	False
+PXD001768	27246553	True
+PXD003179	27246681	False
+PXD003284	27246970	False
+PXD002300	27247105	False
+PXD002160	27249196	False
+PXD003375	27250205	True
+PXD003486	27250206	False
+PXD002967	27250503	False
+PXD004074	27250689	False
+PXD003736	27251291	False
+PXD003005	27251877	False
+PXD003604	27255222	False
+PXD002472	27255285	True
+PXD002936	27257648	False
+PXD003385	27259232	False
+PXD003198	27259358	False
+PXD003459	27264542	False
+PXD003557	27265680	False
+PXD008428	27266261	False
+PXD003186	27267252	False
+PXD002903	27270312	False
+PXD003908	27273156	False
+PXD003111	27274532	False
+PXD000740	27274716	False
+PXD002705	27275780	False
+PXD004073	27277118	False
+PXD003275	27279223	False
+PXD001503	27281222	False
+PXD002704	27281782	False
+PXD002890	27281784	False
+PXD003899	27282143	False
+PXD004099	27284163	False
+PXD004268	27291344	False
+PXD003758	27294783	False
+PXD003759	27297041	False
+PXD003422	27297043	False
+PXD004081	27301800	False
+PXD003611	27302567	False
+PXD001675	27302889	False
+PXD002560	27302890	False
+PXD002097	27307780	False
+PXD003803	27311020	True
+PXD004285	27311716	False
+PXD003334	27314513	True
+PXD003326	27314851	False
+PXD003879	27317401	True
+PXD003876	27318176	False
+PXD001773	27321582	True
+PXD002823	27321585	True
+PXD001568	27321915	False
+PXD002304	27322910	False
+PXD002864	27324416	True
+PXD004003	27327135	False
+PXD003099	27329576	False
+PXD003424	27329856	False
+PXD003527	27343061	False
+PXD003346	27345528	False
+PXD010515	27346420	False
+PXD002133	27346722	False
+PXD003299	27347675	False
+PXD004303	27350002	False
+PXD003545	27350074	False
+PXD003336	27357166	False
+PXD002024	27357474	False
+PXD004040	27357545	True
+PXD003230	27358	False
+PXD005911	27362937	False
+PXD003785	27364157	False
+PXD002912	27364158	False
+PXD002861	27365400	False
+PXD003501	27369081	False
+PXD003324	27371727	False
+PXD003487	27371728	False
+PXD003894	27371946	False
+PXD003153	27373681	False
+PXD003768	27375629	True
+PXD003762	27375898	False
+PXD003272	27376153	False
+PXD003941	27376408	False
+PXD008237	27376980	False
+PXD003468	27377007	False
+PXD003229	27378031	True
+PXD004139	27381497	False
+PXD004031	27381557	False
+PXD001837	27381654	False
+PXD004078	27381823	False
+PXD006078	27384440	False
+PXD003599	27384951	False
+PXD003657	27396729	False
+PXD006472	27396978	False
+PXD004120	27397507	False
+PXD008009	27400695	False
+PXD004133	27400835	False
+PXD004198	27402257	False
+PXD002475	27403724	False
+PXD001002	27404005	False
+PXD026451	27404713	False
+PXD003542	27406380	True
+PXD004105	27406709	False
+PXD003790	27412690	False
+PXD003532	27418529	False
+PXD003765	27422377	True
+PXD003931	27424784	False
+PXD003904	27425180	False
+PXD003052	27426920	False
+PXD003860	27432266	False
+PXD003560	27432471	False
+PXD003669	27432653	False
+PXD002462	27432908	False
+PXD004088	27432909	False
+PXD004434	27435585	False
+PXD003884	27436114	False
+PXD013899	27438602	False
+PXD003947	27444420	False
+PXD003285	27447594	False
+PXD003640	27452035	False
+PXD002541	27452465	False
+PXD002439	27452731	False
+PXD000883	27453046	False
+PXD004584	27453442	True
+PXD003737	27454319	False
+PXD003472	27454336	False
+PXD003981	27456748	False
+PXD003661	27458443	False
+PXD003293	27461979	False
+PXD004566	27461995	False
+PXD003526	27462366	True
+PXD002386	27463037	False
+PXD003546	27463841	False
+PXD004642	27464909	False
+PXD003911	27466253	False
+PXD000063	27466366	False
+PXD003711	27469891	True
+PXD004252	27470094	False
+PXD004079	27470641	False
+PXD004283	27470911	False
+PXD002908	27471282	False
+PXD004130	27474268	False
+PXD002930	27474713	True
+PXD003207	27476034	False
+PXD003637	27477282	False
+PXD003016	27477394	True
+PXD004163	27477696	False
+PXD004322	27480176	False
+PXD003572	27481114	True
+PXD004213	27482120	False
+PXD001620	27486199	False
+PXD004675	27490537	True
+PXD001794	27492143	False
+PXD002970	27492267	False
+PXD004089	27494197	False
+PXD003066	27498275	True
+PXD003683	27498392	False
+PXD002286	27499020	False
+PXD010562	27499720	False
+PXD003794	27500424	False
+PXD004271	27500525	False
+PXD004515	27501389	False
+PXD004212	27503897	False
+PXD003877	27504668	False
+PXD002139	27506200	True
+PXD002803	27506355	False
+PXD004400	27507967	False
+PXD004630	27512083	False
+PXD003780	27514026	False
+PXD003161	27515067	False
+PXD004243	27519006	False
+PXD003552	27519163	False
+PXD004012	27523480	False
+PXD002172	27526785	False
+PXD003896	27528457	False
+PXD004250	27531744	False
+PXD004638	27531911	False
+PXD004599	27532006	False
+PXD004690	27532682	False
+PXD004361	27533485	False
+PXD002883	27535140	True
+PXD001024	27535430	False
+PXD004092	27535590	True
+PXD003666	27535802	False
+PXD004592	27536273	False
+PXD004223	27538499	True
+PXD003108	27542207	False
+PXD002690	27542228	False
+PXD004514	27546612	False
+PXD004289	27550041	False
+PXD004340	27554326	False
+PXD003618	27554994	False
+PXD004204	27555310	False
+PXD003074	27555370	False
+PXD003788	27555448	False
+PXD004325	27557128	True
+PXD001806	27558259	False
+PXD004465	27559042	False
+PXD003909	27559607	False
+PXD003813	27560450	False
+PXD000136	27560970	False
+PXD003668	27561551	True
+PXD008430	27562671	True
+PXD001808	27566455	False
+PXD004558	27568932	False
+PXD003547	27569743	False
+PXD003446	27570076	False
+PXD011462	27575953	False
+PXD004265	27576083	True
+PXD003700	27577262	False
+PXD003174	27580715	False
+PXD004203	27581975	False
+PXD004722	27582265	False
+PXD001181	27590702	False
+PXD003983	27595565	False
+PXD001346	27596437	False
+PXD004782	27596602	False
+PXD004090	27599463	True
+PXD000910	27600695	False
+PXD003613	27601597	True
+PXD004423	27601599	False
+PXD003402	27602264	False
+PXD003450	27602567	False
+PXD000646	27604546	False
+PXD004668	27604873	False
+PXD002231	27606320	True
+PXD002424	27609124	False
+PXD004813	27613546	True
+PXD004883	27613851	False
+PXD004557	27617430	False
+PXD004670	27618962	False
+PXD004756	27621269	False
+PXD003929	27621311	False
+PXD001507	27624304	False
+PXD002466	27625594	False
+PXD004666	27626371	False
+PXD004762	27626656	False
+PXD004678	27626665	False
+PXD002317	27626670	True
+PXD001608	27627584	True
+PXD004087	27629805	False
+PXD004158	27630166	False
+PXD003553	27630193	False
+PXD004882	27631493	False
+PXD004750	27633059	True
+PXD004462	27634302	False
+PXD002918	27634466	True
+PXD003190	27638212	False
+PXD004246	27640904	False
+PXD003925	27641956	True
+PXD001598	27642553	False
+PXD004171	27642623	True
+PXD003880	27642655	False
+PXD003634	27643528	False
+PXD010563	27644981	False
+PXD004274	27644984	True
+PXD003870	27647348	False
+PXD004036	27650186	False
+PXD004707	27653686	False
+PXD001968	27655400	False
+PXD004899	27661452	False
+PXD004426	27663739	False
+PXD002421	27666543	False
+PXD004628	27667366	False
+PXD004967	27667588	False
+PXD004952	27667719	False
+PXD004923	27668839	True
+PXD000849	27669760	False
+PXD004569	27670688	False
+PXD004681	27671103	True
+PXD004039	27671352	False
+PXD003360	27671629	False
+PXD003690	27672084	True
+PXD004319	27672500	False
+PXD003215	27677936	False
+PXD004419	27683036	False
+PXD004575	27685442	False
+PXD004245	27686526	False
+PXD004187	27690223	True
+PXD003354	27690452	False
+PXD000930	27694331	False
+PXD004117	27694941	False
+PXD004135	27694946	True
+PXD004302	27695962	False
+PXD003455	27696471	False
+PXD004280	27696881	False
+PXD002094	27697834	False
+PXD004747	27698423	False
+PXD004761	27698474	False
+PXD004156	27699805	False
+PXD020529	27701404	False
+PXD003645	27701473	False
+PXD004866	27701823	True
+PXD004529	27703004	False
+PXD003022	27703040	False
+PXD004659	27705800	False
+PXD003969	27708245	False
+PXD004205	27708557	True
+PXD004906	27711157	False
+PXD003444	27712078	False
+PXD003726	27713568	False
+PXD003607	27713570	False
+PXD004332	27714013	False
+PXD004018	27714937	False
+PXD003854	27717283	True
+PXD003923	27717466	False
+PXD003671	27717896	True
+PXD005321	27718298	False
+PXD002885	27718312	False
+PXD002667	27718580	True
+PXD004929	27720452	True
+PXD004000	27720645	False
+PXD003529	27723717	False
+PXD004913	27723745	False
+PXD005462	27723750	False
+PXD003791	27723761	False
+PXD004424	27723984	False
+PXD004033	27725814	False
+PXD003051	27726376	True
+PXD003362	27727249	False
+PXD003663	27727459	True
+PXD004395	27731504	True
+PXD003380	27732836	False
+PXD003856	27732854	False
+PXD004125	27733515	False
+PXD004871	27736644	False
+PXD004914	27737933	False
+PXD003935	27738094	False
+PXD003719	27739254	False
+PXD002841	27742679	False
+PXD003968	27742740	False
+PXD004810	27742792	False
+PXD003212	27744090	False
+PXD004567	27746046	False
+PXD003522	27748408	False
+PXD004129	27748445	True
+PXD003841	27749015	False
+PXD005038	27749816	False
+PXD003305	27749819	False
+PXD003961	27749824	False
+PXD003196	27757071	False
+PXD004974	27757169	True
+PXD002206	27757297	False
+PXD001948	27759936	False
+PXD003805	27760159	False
+PXD004745	27760309	False
+PXD004609	27761102	True
+PXD004051	27761513	True
+PXD004814	27762138	False
+PXD002776	27762562	True
+PXD003978	27762666	False
+PXD005018	27764789	False
+PXD004725	27765818	False
+PXD004112	27768280	False
+PXD002066	27769112	False
+PXD003798	27773674	False
+PXD004278	27773927	False
+PXD004958	27775574	False
+PXD004536	27775707	False
+PXD004875	27779380	False
+PXD003630	27780359	False
+PXD004556	27784645	False
+PXD005488	27784696	False
+PXD003883	27784728	True
+PXD004126	27788355	False
+PXD004473	27790212	True
+PXD003937	27790916	False
+PXD004931	27791479	False
+PXD006120	27793636	False
+PXD003162	27794502	False
+PXD005210	27794609	False
+PXD004007	27794612	False
+PXD003901	27796094	False
+PXD020942	27796300	False
+PXD004669	27796307	False
+PXD002132	27796319	False
+PXD002935	27797820	False
+PXD004267	27797852	False
+PXD004167	27799293	False
+PXD002612	27799870	True
+PXD003489	27801591	True
+PXD011639	27801908	False
+PXD004451	27802388	False
+PXD000921	27802913	True
+PXD004320	27803950	False
+PXD005160	27804984	False
+PXD005040	27806287	False
+PXD005055	27806300	False
+PXD003308	27806443	False
+PXD003916	27807047	True
+PXD011492	27807068	True
+PXD005457	27810942	False
+PXD004935	27811184	False
+PXD003875	27813080	False
+PXD004538	27815274	True
+PXD004898	27815530	False
+PXD003818	27818260	True
+PXD003580	27818347	False
+PXD004912	27820601	False
+PXD001481	27821049	True
+PXD003031	27821475	False
+PXD003672	27822545	True
+PXD004512	27822555	False
+PXD004293	27824121	False
+PXD005277	27824369	False
+PXD005095	27826303	False
+PXD004541	27827301	False
+PXD004173	27833098	False
+PXD004236	27834373	False
+PXD004945	27834733	True
+PXD004253	27834734	False
+PXD004351	27838466	False
+PXD003850	27841257	False
+PXD004987	27841354	False
+PXD004023	27841757	False
+PXD004916	27841876	False
+PXD004753	27844044	True
+PXD004971	27848959	False
+PXD004966	27852625	False
+PXD005008	27852626	False
+PXD003431	27852650	False
+PXD004665	27852747	False
+PXD004190	27852748	False
+PXD005082	27863225	False
+PXD005297	27864514	False
+PXD003578	27867116	False
+PXD026391	27868065	True
+PXD004894	27869121	False
+PXD003073	27869123	False
+PXD003240	27871150	False
+PXD004154	27871366	False
+PXD005494	27872192	False
+PXD004014	27872998	False
+PXD002882	27876802	False
+PXD004625	27879288	True
+PXD004957	27880911	False
+PXD005633	27881664	False
+PXD003633	27881975	False
+PXD002973	27882349	False
+PXD003282	27882920	False
+PXD002833	27888076	False
+PXD003644	27888142	False
+PXD004437	27890679	False
+PXD005074	27891114	True
+PXD005123	27892468	False
+PXD004121	27893749	False
+PXD005479	27894104	False
+PXD003684	27895226	False
+PXD003340	27895531	False
+PXD010659	27897233	False
+PXD004876	27898262	False
+PXD005048	27900319	False
+PXD004607	27901089	True
+PXD004521	27903465	False
+PXD010344	27903962	False
+PXD005337	27907059	False
+PXD004201	27907131	False
+PXD005105	27911807	False
+PXD005240	27912065	False
+PXD004995	27913581	False
+PXD005138	27916455	False
+PXD003772	27917875	False
+PXD003774	27918545	False
+PXD005084	27920218	False
+PXD005253	27926873	False
+PXD004583	27926928	False
+PXD005274	27927741	False
+PXD004476	27932303	False
+PXD004893	27932519	False
+PXD003104	27933903	False
+PXD005025	27934294	True
+PXD004343	27934295	False
+PXD004686	27938330	False
+PXD005202	27939944	False
+PXD003934	27940637	False
+PXD003944	27956707	False
+PXD004947	27957804	True
+PXD004456	27960333	False
+PXD003868	27966978	False
+PXD004918	27967218	False
+PXD005251	27974378	False
+PXD005133	27974800	False
+PXD004859	27976366	False
+PXD003940	27976581	False
+PXD003210	27976729	False
+PXD004009	27981680	False
+PXD003598	27984725	False
+PXD003708	27987026	False
+PXD002465	27988178	False
+PXD005404	27990558	False
+PXD010981	27990823	False
+PXD005484	27991487	False
+PXD004808	27991520	True
+PXD004555	27991726	False
+PXD004780	27991763	False
+PXD003594	27991931	False
+PXD004703	27992588	False
+PXD001645	28000977	True
+PXD005428	28003343	False
+PXD003902	28007913	False
+PXD002626	28009281	False
+PXD005118	28011752	False
+PXD004960	28028127	False
+PXD004438	28029036	True
+PXD004676	28035797	False
+PXD005305	28036087	False
+PXD001963	28038447	False
+PXD006048	28039027	False
+PXD005570	28039816	False
+PXD004544	28040530	False
+PXD002533	28042331	False
+PXD004863	28044435	False
+PXD004208	28050635	False
+PXD004939	28054942	False
+PXD004994	28056797	True
+PXD003588	28057767	False
+PXD004692	28059076	False
+PXD002966	28062376	False
+PXD002765	28062706	False
+PXD003811	28062795	True
+PXD004608	28062796	False
+PXD001556	28062798	True
+PXD003745	28062852	False
+PXD004181	28064214	False
+PXD004815	28065164	False
+PXD004248	28065597	False
+PXD003056	28065881	True
+PXD005312	28066266	False
+PXD005042	28066480	False
+PXD003701	28067524	False
+PXD005227	28068333	False
+PXD004305	28069559	False
+PXD003712	28069995	False
+PXD004372	28070933	False
+PXD004612	28071813	False
+PXD004791	28071820	False
+PXD003451	28076789	False
+PXD005334	28076790	False
+PXD005152	28077445	False
+PXD012655	28077793	False
+PXD004905	28077967	True
+PXD005180	28081440	False
+PXD002892	28082348	False
+PXD004948	28082515	False
+PXD003289	28083997	False
+PXD004123	28086104	False
+PXD004983	28087593	False
+PXD000970	28087597	False
+PXD002915	28088779	False
+PXD004613	28091603	False
+PXD004585	28093501	False
+PXD004606	28096092	False
+PXD005356	28096179	False
+PXD014436	28096346	False
+PXD005142	28096404	False
+PXD005489	28096900	False
+PXD005106	28099887	False
+PXD004241	28101920	True
+PXD003173	28102082	True
+PXD003457	28102238	False
+PXD005577	28104718	False
+PXD004177	28106078	False
+PXD005366	28107008	False
+PXD004595	28107520	False
+PXD005831	28109157	False
+PXD005149	28111465	False
+PXD005087	28111950	False
+PXD004447	28111955	False
+PXD004927	28112733	False
+PXD005150	28114394	False
+PXD005009	28115184	False
+PXD004801	28116781	False
+PXD002757	28117336	False
+PXD004429	28118090	False
+PXD005658	28122231	False
+PXD004816	28123004	False
+PXD005141	28126900	False
+PXD003556	28126901	True
+PXD001888	28129334	False
+PXD005688	28129394	False
+PXD005225	28130068	False
+PXD004804	28130397	True
+PXD004977	28132834	False
+PXD004461	28132839	False
+PXD005156	28133907	False
+PXD005500	28134249	False
+PXD004273	28134274	False
+PXD021013	28135259	False
+PXD005601	28135300	False
+PXD005723	28137868	False
+PXD004550	28138016	True
+PXD005383	28139683	False
+PXD005646	28140569	True
+PXD004083	28143887	True
+PXD002055	28148733	False
+PXD003807	28152591	False
+PXD003463	28152593	False
+PXD005061	28152594	False
+PXD016595	28154854	False
+PXD002796	28158262	False
+PXD004936	28161958	False
+PXD005043	28164707	False
+PXD003977	28164708	False
+PXD004524	28165194	False
+PXD005575	28165461	False
+PXD005286	28167071	False
+PXD021432	28168343	True
+PXD004700	28169345	False
+PXD004195	28174229	False
+PXD005107	28174230	False
+PXD005581	28174249	False
+PXD005449	28174279	False
+PXD005301	28176443	False
+PXD001170	28176486	False
+PXD005517	28176777	False
+PXD005659	28178326	False
+PXD004797	28183814	False
+PXD005246	28183815	False
+PXD004963	28184230	True
+PXD005883	28186488	False
+PXD004680	28186774	False
+PXD002273	28186866	False
+PXD005628	28188211	False
+PXD005502	28188227	False
+PXD005170	28188936	False
+PXD004185	28190767	False
+PXD005627	28190768	False
+PXD004369	28191818	True
+PXD000890	28191904	False
+PXD028104	28193032	False
+PXD004128	28194157	False
+PXD001789	28194435	False
+PXD004682	28195392	True
+PXD005563	28196534	False
+PXD005083	28196878	False
+PXD002444	28198360	False
+PXD005417	28198367	False
+PXD005655	28199111	False
+PXD005229	28199320	False
+PXD005845	28199961	False
+PXD003963	28208246	False
+PXD005209	28210003	False
+PXD003106	28210565	True
+PXD004730	28212376	True
+PXD005664	28212753	False
+PXD008227	28214564	False
+PXD005266	28217134	False
+PXD003789	28218284	False
+PXD004022	28218653	False
+PXD005699	28220903	False
+PXD005465	28223221	False
+PXD005520	28223350	False
+PXD005234	28223351	True
+PXD005422	28224978	False
+PXD005196	28225021	False
+PXD005532	28232095	False
+PXD005039	28232487	False
+PXD003839	28232751	False
+PXD004910	28233997	False
+PXD006038	28234449	False
+PXD005022	28235076	False
+PXD004113	28235783	False
+PXD005276	28237943	False
+PXD004047	28241146	False
+PXD004161	28241730	True
+PXD004724	28242843	False
+PXD005557	28243621	False
+PXD004951	28245787	True
+PXD004334	28246120	False
+PXD001889	28248240	True
+PXD002659	28248256	True
+PXD005948	28249160	False
+PXD003023	28253354	True
+PXD005056	28253357	False
+PXD005148	28253936	False
+PXD005757	28254776	True
+PXD005814	28258195	False
+PXD005421	28260372	False
+PXD005192	28261056	False
+PXD010917	28261998	False
+PXD004352	28263321	False
+PXD005021	28265047	False
+PXD004940	28266123	False
+PXD004749	28267312	False
+PXD004902	28267743	True
+PXD005861	28268116	False
+PXD002980	28270225	False
+PXD004296	28270554	False
+PXD005214	28270605	False
+PXD005615	28270628	True
+PXD004562	28271981	False
+PXD005717	28273461	False
+PXD003538	28275217	False
+PXD005265	28275586	True
+PXD004888	28285095	False
+PXD004367	28285833	True
+PXD005666	28286877	False
+PXD005390	28287265	False
+PXD005925	28287266	False
+PXD005825	28289176	True
+PXD000861	28290473	False
+PXD005309	28292441	False
+PXD003682	28295016	False
+PXD005600	28295753	False
+PXD005792	28298358	False
+PXD005345	28300637	False
+PXD004817	28302921	False
+PXD005572	28303880	False
+PXD005509	28306503	False
+PXD005534	28316883	True
+PXD003643	28317030	False
+PXD005045	28317260	True
+PXD005772	28317378	False
+PXD005130	28319050	False
+PXD005878	28319114	False
+PXD005822	28323820	False
+PXD000891	28325760	False
+PXD005953	28325852	True
+PXD005663	28326294	False
+PXD004152	28328168	False
+PXD004417	28328971	False
+PXD005704	28329770	False
+PXD002988	28330952	True
+PXD004373	28331001	False
+PXD005846	28336715	False
+PXD004962	28336725	False
+PXD001853	28337980	False
+PXD005735	28344541	False
+PXD002629	28344861	False
+PXD005635	28345880	False
+PXD005566	28346450	False
+PXD005080	28348171	False
+PXD003804	28348172	False
+PXD005224	28348271	False
+PXD006172	28350441	False
+PXD004304	28350877	True
+PXD006246	28351835	False
+PXD004911	28352255	False
+PXD003973	28355572	False
+PXD003531	28355574	False
+PXD005516	28357858	False
+PXD004818	28358042	False
+PXD006002	28362576	False
+PXD006132	28364001	False
+PXD004897	28365442	False
+PXD005863	28366643	False
+PXD005897	28368372	False
+PXD005915	28369980	False
+PXD005330	28373035	True
+PXD005881	28373284	False
+PXD004436	28373295	False
+PXD006085	28373296	False
+PXD005620	28376875	False
+PXD006087	28377412	False
+PXD005473	28380054	False
+PXD005895	28380375	False
+PXD005896	28380376	False
+PXD006098	28381614	False
+PXD005668	28382018	True
+PXD005241	28382632	False
+PXD006112	28387123	False
+PXD005346	28387473	False
+PXD005827	28388405	False
+PXD017570	28388416	False
+PXD005853	28389096	True
+PXD005164	28389918	False
+PXD004944	28392779	False
+PXD005290	28393466	False
+PXD005738	28393831	False
+PXD003260	28394025	True
+PXD005988	28394474	False
+PXD003651	28396511	False
+PXD006158	28396520	False
+PXD004192	28399410	False
+PXD003872	28400537	False
+PXD005218	28401474	False
+PXD006131	28402676	False
+PXD004727	28404849	True
+PXD004034	28404994	False
+PXD004819	28408760	False
+PXD005734	28416797	False
+PXD004687	28418008	True
+PXD005892	28418254	False
+PXD005890	28418257	True
+PXD004321	28420677	False
+PXD005539	28424693	False
+PXD003910	28429720	False
+PXD004920	28430416	False
+PXD006121	28431522	True
+PXD004896	28432195	False
+PXD005748	28433889	False
+PXD006339	28436957	False
+PXD006036	28436968	False
+PXD003589	28439039	False
+PXD004705	28439285	True
+PXD006279	28439590	True
+PXD005858	28440293	False
+PXD004664	28441411	False
+PXD006135	28441529	False
+PXD003814	28442448	False
+PXD005781	28443122	True
+PXD005131	28444311	False
+PXD006215	28446606	False
+PXD003303	28446771	False
+PXD005442	28447389	False
+PXD003964	28448822	False
+PXD004442	28450419	False
+PXD004286	28450420	False
+PXD002615	28455001	False
+PXD002394	28455291	False
+PXD004415	28464451	False
+PXD004455	28467696	False
+PXD004466	28467808	False
+PXD005935	28467828	False
+PXD004637	28467900	True
+PXD005120	28467905	False
+PXD005992	28474680	False
+PXD005706	28476026	False
+PXD003628	28477369	False
+PXD006367	28481548	False
+PXD005732	28483926	False
+PXD005786	28484033	False
+PXD005766	28484215	True
+PXD006217	28485144	False
+PXD005730	28485388	False
+PXD005679	28487390	False
+PXD004150	28487411	False
+PXD006102	28488443	True
+PXD005506	28489815	False
+PXD001821	28490445	False
+PXD005311	28490779	False
+PXD005090	28493397	False
+PXD006441	28495502	True
+PXD006025	28496455	True
+PXD006272	28497289	False
+PXD005085	28500030	False
+PXD006074	28500257	False
+PXD003979	28500387	False
+PXD015018	28501198	False
+PXD005906	28502737	True
+PXD005114	28503907	False
+PXD006054	28504706	False
+PXD011053	28508553	True
+PXD005592	28508578	True
+PXD006026	28508642	False
+PXD002646	28509920	False
+PXD004358	28512129	False
+PXD005979	28512450	False
+PXD006317	28514666	False
+PXD001674	28515092	False
+PXD005731	28516729	True
+PXD006287	28516784	True
+PXD005719	28523741	True
+PXD003039	28526873	False
+PXD007599	28529881	False
+PXD005857	28530236	False
+PXD005405	28530406	False
+PXD005403	28535754	True
+PXD005871	28537268	False
+PXD006263	28538182	False
+PXD005183	28539326	False
+PXD006055	28539327	False
+PXD006301	28540588	False
+PXD006030	28541047	False
+PXD004980	28541577	False
+PXD006466	28542244	True
+PXD006459	28542436	False
+PXD005058	28542564	False
+PXD006193	28544567	False
+PXD004530	28545058	False
+PXD006209	28546582	False
+PXD005369	28547791	False
+PXD004453	28547889	False
+PXD003674	28550165	False
+PXD005464	28554894	False
+PXD006325	28555641	False
+PXD006136	28556443	True
+PXD005096	28556466	False
+PXD004924	28559428	False
+PXD006200	28561026	False
+PXD006119	28561066	False
+PXD006293	28566324	False
+PXD006360	28566488	False
+PXD006655	28569067	False
+PXD006212	28569760	False
+PXD006389	28572091	False
+PXD006390	28572092	False
+PXD005144	28573829	True
+PXD004324	28575236	False
+PXD006106	28575672	False
+PXD005461	28576849	False
+PXD006726	28576864	False
+PXD003608	28580786	False
+PXD006251	28580955	False
+PXD004802	28582408	False
+PXD005400	28583764	False
+PXD005548	28584245	True
+PXD005981	28585528	False
+PXD006294	28586477	False
+PXD004953	28587595	True
+PXD005768	28588230	True
+PXD005501	28588593	True
+PXD005751	28589555	False
+PXD004027	28589936	False
+PXD004779	28590090	False
+PXD005932	28591806	True
+PXD006371	28594924	False
+PXD005190	28596291	False
+PXD005941	28596424	False
+PXD004452	28601559	True
+PXD006069	28602620	False
+PXD005976	28603765	False
+PXD006056	28604659	False
+PXD006268	28604699	False
+PXD003469	28607076	False
+PXD006734	28608391	False
+PXD006568	28610761	False
+PXD006434	28611063	False
+PXD005117	28611446	False
+PXD006314	28611588	True
+PXD006113	28611809	False
+PXD006658	28612519	True
+PXD005447	28614633	True
+PXD004635	28615221	False
+PXD006006	28615362	False
+PXD005304	28615672	False
+PXD004989	28615994	False
+PXD006436	28619761	False
+PXD005551	28623370	False
+PXD006757	28625565	False
+PXD005483	28625833	False
+PXD005777	28626882	False
+PXD006252	28627741	False
+PXD005351	28628098	False
+PXD006058	28628250	False
+PXD005420	28629911	True
+PXD005559	28630087	False
+PXD005343	28630322	False
+PXD005419	28632769	True
+PXD002895	28634120	False
+PXD005568	28634367	False
+PXD006254	28636386	False
+PXD003975	28637836	False
+PXD005544	28638726	False
+PXD004784	28641008	False
+PXD004895	28643940	False
+PXD005165	28644030	False
+PXD005571	28646562	False
+PXD005739	28648085	False
+PXD006461	28648777	False
+PXD005714	28648780	False
+PXD006455	28649982	False
+PXD004867	28650319	False
+PXD006049	28650437	False
+PXD006327	28650464	False
+PXD006753	28651603	False
+PXD005982	28654018	False
+PXD000582	28655597	False
+PXD006766	28657298	False
+PXD004510	28657654	False
+PXD006873	28657729	False
+PXD002703	28658220	False
+PXD006550	28658951	False
+PXD005752	28659600	True
+PXD006355	28659872	False
+PXD006440	28659875	False
+PXD005497	28663172	False
+PXD005237	28663385	False
+PXD006190	28664598	False
+PXD002552	28665616	False
+PXD005267	28667326	True
+PXD006313	28671602	True
+PXD006277	28671696	False
+PXD006703	28673085	False
+PXD006336	28673088	True
+PXD006391	28673974	False
+PXD005073	28674151	False
+PXD005410	28674419	False
+PXD006413	28675162	False
+PXD006698	28675297	False
+PXD005554	28675934	False
+PXD005323	28676664	False
+PXD005765	28676677	False
+PXD006207	28676819	True
+PXD006084	28677146	False
+PXD006412	28677900	True
+PXD002118	28679031	True
+PXD004043	28679203	False
+PXD001985	28679606	False
+PXD005273	28679684	False
+PXD005207	28680058	False
+PXD005453	28680592	False
+PXD006377	28683291	False
+PXD005574	28684633	False
+PXD005065	28687556	False
+PXD006234	28691068	False
+PXD006155	28691708	False
+PXD003316	28694244	False
+PXD003321	28694441	False
+PXD005255	28694488	False
+PXD005523	28696408	True
+PXD006021	28696707	False
+PXD006502	28698233	True
+PXD006613	28700945	False
+PXD006596	28701521	False
+PXD006027	28702092	False
+PXD005969	28705725	False
+PXD002364	28706003	True
+PXD005917	28706004	False
+PXD005003	28706005	False
+PXD006347	28706187	False
+PXD006326	28706196	False
+PXD005780	28709472	False
+PXD005201	28710093	False
+PXD006362	28712289	False
+PXD006024	28712724	False
+PXD004215	28713243	False
+PXD005929	28713344	False
+PXD003662	28713355	False
+PXD004082	28714327	False
+PXD005320	28714690	False
